@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESOL audit
+title: "Inside ESOL: Exploring Molecular Solubility"
 ---
 
 # Inside ESOL: Exploring Molecular Solubility
