@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: My Machine Learning Blog
-description: Notes, tutorials, and experiments in machine learning
+title: Chem blog
+
+markdown: kramdown
+highlighter: rouge
+baseurl: "/ml-blog"
