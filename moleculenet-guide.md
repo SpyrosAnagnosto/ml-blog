@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MoleculeNet Guide
+title: Understanding MoleculeNet
 ---
 
 # Understanding MoleculeNet
