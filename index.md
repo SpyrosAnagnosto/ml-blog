@@ -2,7 +2,7 @@
 layout: default
 title: Chem Blog
 ---
-
+<style>
 .home-profile {
   display: flex;
   align-items: center;
@@ -35,7 +35,7 @@ title: Chem Blog
   }
 }
 
-<style>
+
   .home-hero {
     padding: 20px 0 45px;
     border-bottom: 1px solid #e5e7eb;
