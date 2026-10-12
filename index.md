@@ -3,6 +3,38 @@ layout: default
 title: Chem Blog
 ---
 
+.home-profile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.home-profile-text {
+  flex: 1;
+}
+
+.home-avatar {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #e5e7eb;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  transition: transform 0.2s;
+}
+
+.home-avatar:hover {
+  transform: scale(1.05);
+}
+
+@media (max-width: 600px) {
+  .home-profile {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+}
+
 <style>
   .home-hero {
     padding: 20px 0 45px;
