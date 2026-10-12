@@ -113,17 +113,39 @@ title: Chem Blog
   }
 </style>
 
+
 <section class="home-hero">
-  <span class="home-tag">Machine Learning · Cheminformatics</span>
+  <div class="home-profile">
 
-  <h1>Exploring Machine Learning Through Chemistry.</h1>
+    <div class="home-profile-text">
+      <span class="home-tag">
+        Machine Learning · Cheminformatics
+      </span>
 
-  <p class="home-intro">
-    A collection of technical notes, experiments, and tutorials
-    exploring molecular data, chemical representations,
-    and machine learning.
-  </p>
+      <h1>
+        Exploring Machine Learning Through Chemistry.
+      </h1>
+
+      <p class="home-intro">
+        A collection of technical notes, experiments,
+        and tutorials exploring molecular data,
+        chemical representations, and machine learning.
+      </p>
+    </div>
+
+    <a href="https://github.com/SpyrosAnagnosto"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img
+        class="home-avatar"
+        src="https://github.com/SpyrosAnagnosto.png"
+        alt="GitHub profile photo"
+      >
+    </a>
+
+  </div>
 </section>
+
 
 <section class="home-section">
   <h2>Articles</h2>
