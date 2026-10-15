@@ -174,5 +174,16 @@ title: Chem Blog
       <span class="home-link">Read article →</span>
     </a>
 
+    <a class="home-card"
+       href="{{ '/molecular-representations.html' | relative_url }}">
+      <span class="home-tag">Molecular Representations</span>
+      <h3>Morgan Fingerprints and ChemBERTa</h3>
+      <p>
+        Turning molecular structures into numerical representations,
+        from circular fingerprints to pretrained transformer embeddings.
+      </p>
+      <span class="home-link">Read article →</span>
+    </a>
+
   </div>
 </section>
