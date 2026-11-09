@@ -153,6 +153,18 @@ title: Chem Blog
   <div class="home-grid">
 
     <a class="home-card"
+       href="{{ '/uspto-reactions.html' | relative_url }}">
+      <span class="home-tag">Reaction Data</span>
+      <h3>From Chemical Patents to Reaction Data</h3>
+      <p>
+        Understanding Pistachio and the open USPTO dataset, with Python
+        examples, real outputs, coverage charts, and practical limitations.
+      </p>
+      <span class="home-link">Read article →</span>
+    </a>
+
+
+    <a class="home-card"
        href="{{ '/coconut-guide.html' | relative_url }}">
       <span class="home-tag">Natural Product Data</span>
       <h3>Understanding COCONUT</h3>
