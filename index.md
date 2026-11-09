@@ -153,6 +153,17 @@ title: Chem Blog
   <div class="home-grid">
 
     <a class="home-card"
+       href="{{ '/coconut-guide.html' | relative_url }}">
+      <span class="home-tag">Natural Product Data</span>
+      <h3>Understanding COCONUT</h3>
+      <p>
+        A guide to the natural-product database: its molecules,
+        biological sources, practical uses, and limitations.
+      </p>
+      <span class="home-link">Read article →</span>
+    </a>
+
+    <a class="home-card"
        href="{{ '/clamp.html' | relative_url }}">
       <span class="home-tag">Pretrained Models</span>
       <h3>CLAMP: Scoring Molecules with Natural Language</h3>
