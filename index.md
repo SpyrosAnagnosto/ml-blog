@@ -138,7 +138,7 @@ title: Chem Blog
        rel="noopener noreferrer">
       <img
         class="home-avatar"
-        src="https://github.com/SpyrosAnagnosto.png"
+        src="{{ '/assets/images/profile.jpg' | relative_url }}"
         alt="GitHub profile photo"
       >
     </a>
